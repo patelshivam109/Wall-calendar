@@ -2,7 +2,6 @@
 
 An interactive and responsive wall calendar component inspired by a physical wall calendar design. Built with a focus on clean UI, intuitive interactions, and maintainable architecture.
 
-----
 
 ##  Features
 
